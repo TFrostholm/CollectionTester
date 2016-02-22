@@ -9,7 +9,7 @@ namespace CollectionTester
     {
         internal void MyCode()
         {
-            ListTester listTester = new ListTester();
+            //ListTester listTester = new ListTester();
             //listTester.printList();
 
 
